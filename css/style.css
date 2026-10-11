@@ -167,3 +167,4 @@ details.hud summary{min-height:44px}
 }
 @media(max-width:380px){.uitem{width:100%}nav button{padding:14px 12px}}
 nav{scrollbar-width:thin;scrollbar-color:#25507f #050a12}nav::-webkit-scrollbar{height:7px}nav::-webkit-scrollbar-track{background:#050a12}nav::-webkit-scrollbar-thumb{background:#25507f}.go{cursor:pointer}.go:hover,.go:focus{border-color:var(--cis);outline:none;background:rgba(74,168,255,.08)}.go em{display:block;margin-top:8px;font-size:12px;color:var(--cis);font-style:normal}
+.slot.off:not(.sq){aspect-ratio:auto!important;padding:18px 12px}.hc .slot.off{aspect-ratio:1920/817!important;padding:0}.slot:not(.hs).fit img{max-height:420px!important}
